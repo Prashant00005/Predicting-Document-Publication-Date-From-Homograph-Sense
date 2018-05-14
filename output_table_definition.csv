@@ -1,0 +1,16 @@
+word;context;noad_url;wordnet_id;wordnet_text;masc_file;date;year
+form;-------
+
+
+from the current datasets:
+-word
+-context
+-noad_url
+-masc_file
+-year
+
+
+using wordnet
+-noad_url -> wordnet_id(s)
+-ids -> senses (text definitions) as in `wordnet form -over`
+
